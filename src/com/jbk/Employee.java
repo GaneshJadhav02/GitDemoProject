@@ -1,9 +1,7 @@
 package com.jbk;
 
-public class Student {
+public class Employee {
 	public static void main(String[] args) {
-
-		System.out.println("Hello Don...");
+		System.out.println("Welcome...");
 	}
-
 }
