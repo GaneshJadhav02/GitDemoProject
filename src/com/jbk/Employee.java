@@ -2,6 +2,9 @@ package com.jbk;
 
 public class Employee {
 	public static void main(String[] args) {
-		System.out.println("Welcome...");
+		String name = "Ganesh";
+		if (name.equals("Ganesh")) {
+			System.out.println("Welcome...");
+		}
 	}
 }
